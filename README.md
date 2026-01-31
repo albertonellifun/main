@@ -43,7 +43,12 @@ Main / Index container for my repositories
 - Space Invaders - Apple ][ clone
   - [repo](https://github.com/albertonellifun/invaders)
   - [link Space Invaders](https://albertonellifun.github.io/invaders/invaders.html)
-  
+
+- Spy's Demise - Apple ][ clone
+  - [repo](https://github.com/albertonellifun/spys-demise)
+  - [link Spy's Demise](https://albertonellifun.github.io/spys-demise/sd.html)
+ 
+ 
 - Tetris Next
   - [repo](https://github.com/albertonellifun/tetris-next)
   - [link TETRIS-NEXT](https://albertonellifun.github.io/tetris-next/TETRIS-NEXT.html)
