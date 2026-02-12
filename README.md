@@ -69,5 +69,3 @@ Main / Index container for my repositories
   - [link Cat](https://albertonellifun.github.io/lab/cat.html)
   - [link Cat Inv](https://albertonellifun.github.io/lab/catInv.html)
   - [link Cat SVG](https://albertonellifun.github.io/lab/catSVG.html)
-  - [link CAT](https://albertonellifun.github.io/lab/cat.html)
-  - [link LAB](https://albertonellifun.github.io/lab/lab.html)
