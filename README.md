@@ -65,5 +65,9 @@ Main / Index container for my repositories
 
 - Lab (laboratorio di idee e work in progress)
   - [repo](https://github.com/albertonellifun/lab)
+  - [link Lab](https://albertonellifun.github.io/lab/lab.html)
+  - [link Cat](https://albertonellifun.github.io/lab/cat.html)
+  - [link Cat Inv](https://albertonellifun.github.io/lab/catInv.html)
+  - [link Cat SVG](https://albertonellifun.github.io/lab/catSVG.html)
   - [link CAT](https://albertonellifun.github.io/lab/cat.html)
   - [link LAB](https://albertonellifun.github.io/lab/lab.html)
