@@ -71,3 +71,4 @@ Main / Index container for my repositories
   - [link Cat SVG](https://albertonellifun.github.io/lab/catSVG.html)
   - [link Solar](https://albertonellifun.github.io/lab/solar.html)
   - [link Mystify](https://albertonellifun.github.io/lab/mystify.html)
+  - [link Pipes 3D](https://albertonellifun.github.io/lab/pipes3d.html)
