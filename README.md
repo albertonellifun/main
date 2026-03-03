@@ -72,3 +72,4 @@ Main / Index container for my repositories
   - [link Solar](https://albertonellifun.github.io/lab/solar.html)
   - [link Mystify](https://albertonellifun.github.io/lab/mystify.html)
   - [link Pipes 3D](https://albertonellifun.github.io/lab/pipes3d.html)
+  - [link Febbre da Cavallo](https://albertonellifun.github.io/lab/febbre.html)
