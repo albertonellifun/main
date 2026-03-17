@@ -34,6 +34,10 @@ Main / Index container for my repositories
 - Punti-Linee (Dots and Boxes)
   - [repo](https://github.com/albertonellifun/punti-linee)
   - [link Punti-Linee](https://albertonellifun.github.io/punti-linee/punti-linee.html)
+ 
+- Puzzle Bobble clone
+  - [repo](https://github.com/albertonellifun/pbobble)
+  - [link Puzzle Bobble](https://albertonellifun.github.io/pbobble/pbobble.html)
 
 - Simon
   - [repo](https://github.com/albertonellifun/simon)
