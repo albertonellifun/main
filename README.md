@@ -14,6 +14,10 @@ Main / Index container for my repositories
 - Asteroids - Apple ][ clone
   - [repo](https://github.com/albertonellifun/asteroids)
   - [link Asteroids](https://albertonellifun.github.io/asteroids/asteroids.html)
+ 
+- Febbre da Cavallo + West & Soda
+  - [repo](https://github.com/albertonellifun/febbre)
+  - [link Febbre da Cavallo](https://albertonellifun.github.io/febbre/febbre.html)
 
 - Frogger / Cricketeer Apple ][ clone
   - [repo](https://github.com/albertonellifun/frogger)
