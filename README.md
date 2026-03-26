@@ -27,6 +27,11 @@ Main / Index container for my repositories
   - [repo](https://github.com/albertonellifun/lunarlander)
   - [link Lunar Lander](https://albertonellifun.github.io/lunarlander/llander.html)
 
+- Merge Fruits / Merge Fellas
+  - [repo](https://github.com/albertonellifun/merge)
+  - [link Merge Fruits](https://albertonellifun.github.io/merge/merge-fruits.html)
+  - [link Merge Fellas](https://albertonellifun.github.io/merge/merge-fellas.html)
+
 - Nibbles / Snake
   - [repo](https://github.com/albertonellifun/nibbles)
   - [link Nibbles](https://albertonellifun.github.io/nibbles/nibbles.html)
@@ -51,7 +56,6 @@ Main / Index container for my repositories
 - Spy's Demise - Apple ][ clone
   - [repo](https://github.com/albertonellifun/spys-demise)
   - [link Spy's Demise](https://albertonellifun.github.io/spys-demise/sd.html)
- 
  
 - Tetris Next
   - [repo](https://github.com/albertonellifun/tetris-next)
