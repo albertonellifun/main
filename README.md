@@ -26,6 +26,10 @@ Main / Index container for my repositories
 - Gomoku
   - [repo](https://github.com/albertonellifun/gomoku)
   - [link Gomoku](https://albertonellifun.github.io/gomoku/gomoku.html)
+ 
+- Il Programmatore Tipico
+  - [repo](https://github.com/albertonellifun/programmatore)
+  - [link Il Programmatore Tipico](https://albertonellifun.github.io/programmatore/programmatore.html)
 
 - Lunar Lander / Tranquility Base - Apple ][ clone
   - [repo](https://github.com/albertonellifun/lunarlander)
@@ -87,3 +91,8 @@ Main / Index container for my repositories
   - [link Febbre da Cavallo](https://albertonellifun.github.io/lab/febbre.html)
   - [link Crash Test Dummy](https://albertonellifun.github.io/lab/dummy.html)
   - [link Sudoku](https://albertonellifun.github.io/lab/sudoku.html)
+  - [link OutRun](https://albertonellifun.github.io/lab/outrun.html)
+  - [link Il Programmatore Tipico](https://albertonellifun.github.io/lab/programmatore.html)
+  - [link KNetWalk](https://albertonellifun.github.io/lab/knetwalk.html)
+  - [link Chi Vuole Essere Milionario?](https://albertonellifun.github.io/lab/milionario.html)
+  - [link Bounce Masters](https://albertonellifun.github.io/lab/bmasters.html)
