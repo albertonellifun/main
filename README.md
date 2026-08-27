@@ -96,3 +96,7 @@ Main / Index container for my repositories
   - [link KNetWalk](https://albertonellifun.github.io/lab/knetwalk.html)
   - [link Chi Vuole Essere Milionario?](https://albertonellifun.github.io/lab/milionario.html)
   - [link Bounce Masters](https://albertonellifun.github.io/lab/bmasters.html)
+  - [link Paper Burst](https://albertonellifun.github.io/lab/paper-burst.html)
+  - [link Visual Optical File Transfer](https://albertonellifun.github.io/lab/visual-optical-file-transfer.html)
+  - [link Meowdoku Rocky Graffietto Edition](https://albertonellifun.github.io/lab/meowdoku.html)
+  
